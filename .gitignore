@@ -14,3 +14,5 @@ anonymized-curriculum-access.txt
 *.jpg
 *.pdf
 *.png
+call-json
+*.json
